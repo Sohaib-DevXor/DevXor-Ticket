@@ -1,0 +1,36 @@
+Replies:
+  SetAlready: '**❌ You already setup Ticket in this server : **'
+  SettTimer : '**⌚ 20 sec for Deleting this Message**'
+  SetTFinsh : '**🔔 Timer Finish**'
+  OpenAlredy: '**👀 You already opened ticket :**'
+  TicketOpnd: '**✅ Your Ticket Opened Successfully :**'
+  RoleAlreadyExists: "**👀 This Role already added to support**"
+  RoleAdded: "**✅ Role Support added Successfully ! :**"
+  RoleNotFound: "**🙄 This role is not in the support list.**"
+  RoleRemoved: "**✅ The role has been removed from the support list:**"
+  NoSupportRoles: "**🤨 There are no support roles set up yet.**"
+  NoPermission: "**❌ You don't have permission to use this button**"
+  TicketClaimed: "**🙋‍♂️ This Ticket Claimed by [User]**"
+  TicketUnclaimed: "**❌ [User] Unclaimed this ticket**"
+  NoUPermission: "**❌ You do not have permission to use this command.**"
+  NotATicket: "**🙄 This channel is not a ticket channel.**"
+  UserNotInChannel: '**🙄 The specified user is not in this channel or does not have permissions.**'
+  UserNoClaimed: '**🙄 You are not the one handling this ticket**'
+  UserAlreadyInChannel: '**🙄 The specified user is already in this channel.**'
+  ConfirmationMessage: '**🤨 Are You sure you want to close this ticket ?**'
+  ConfirmationMessageD: '**🤨 Are You sure you want to delete this ticket ?**'
+  CloseSuccess: '**✅ The ticket has been closed successfully.**'
+  CloseFaileds: '**🚫 Failed to close the ticket. No ticket data found.**'
+  ClosedAlredy: '**🙄 This ticket is already closed.**'
+  SetpNotFound: '**👀 Setup not found. Please configure the ticket system.**'
+  TranscrReady: '**✅ Here is your transcript file:**'
+  TicketDelete: '**🗑️ This ticket delete after 5sec**'
+  NoClaimClose: '**🤨 This Ticket is Closed, you cannot claim it.**'
+  NUClaimClose: '**🤨 This Ticket is Closed, you cannot unclaim it.**'
+  ReopenUucess: '**🔄️ Your ticket has been reopened. Please check the channel:**'
+  ReopenSucess: '**✅ The ticket has been reopened successfully.**'
+  StatusSelect: '**🌐 Please select the ticket status you want to view:**'
+  StatusNoSelc: '**🙄 You did not select any ticket status.**'
+  StatusSelAll: '**➡️ Here are all the tickets:**'
+  StatusSelOpn: '**➡️ Here are the open tickets:**'
+  StatusSelCls: '**➡️ Here are the closed tickets:**'

@@ -1,0 +1,58 @@
+# Name All Buttons
+ButtosN:
+  NSetup: "Setup"
+  NOpen: "Open a ticket"
+  NClose: "Close"
+  NClaim: "Claim"
+  NUnclaim: "Unclaim"
+  NClaimBY: "Claimed By :"
+  NDelete: "Delete"
+  NTranscript: "Transcript"
+  NDownload: "Download Transcript"
+  NOnline: "View Online Transcript"
+  NReopen: "ReOpen"
+  NYes: "Yes"
+  NNo: "No"
+
+# Emoji All Buttons
+ButtosE:
+  ESetup: "💻"
+  EOpen: "📩"
+  EClose: "🔒"
+  EClaim: "🙋‍♂️"
+  EUnclaim: "❌"
+  EDelete: "🗑️"
+  ETranscript: "📄"
+  EDownload: "📁"
+  EOnline: "🌐"
+  EReopen: "🔓"
+  EYes: "✔️"
+  ENo : "✖️"
+
+# Color All Buttons : BLUE, RED, GREY, GREEN
+ButtosStyle:
+  SSetup: "GREY"
+  SOpen: "GREY"
+  SClose: "RED"
+  SClaim: "GREEN"
+  SUnclaim: "GREY"
+  SClaimedBy: "GREEN"
+  SDelete: "RED"
+  STranscript: "BLUE"
+  SDownload: "GREEN"
+  SReopen: "GREEN"
+  SYes: "GREEN"
+  SNo: "RED"
+
+# Text Modal : SHORT, PARAGRAPH
+TextStyle:
+  TReason: 'PARAGRAPH'
+
+# Select Menu Status
+Status:
+  Label1: 'Open Tickets'
+  Description1: 'Show all open tickets'
+  Label2: 'Closed Tickets'
+  Description2: 'Show all closed tickets'
+  Label3: 'All Tickets'
+  Description3: 'Show all tickets'

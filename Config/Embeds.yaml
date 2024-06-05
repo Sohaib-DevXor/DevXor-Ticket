@@ -1,0 +1,120 @@
+# Setup Embed
+Setup:
+  Description: 'Ticket System Created By DevXor Team'
+  AuthorName: 'DevXor Team'
+  AuthorURL: 'https://i.imgur.com/ed2JeXN.png'
+  Thumbnail: 'https://i.imgur.com/ed2JeXN.png'
+  Color: '#FF7631'
+  Image: 'https://i.imgur.com/k9pdpHo.png'
+  Title: 'Ticket System'
+
+# Help Embed
+HelpCommand:
+  AuthorName: 'DevXor Team'
+  AuthorURL: 'https://i.imgur.com/ed2JeXN.png'
+  Thumbnail: 'https://i.imgur.com/ed2JeXN.png'
+  Color: '#FF7631'
+  Image: 'https://i.imgur.com/k9pdpHo.png'
+  Title: 'Help'
+
+# Finish Setup
+SetComplete:
+  Description: '✅ Ticket System is Ready !'
+  AuthorName: 'DevXor Team'
+  AuthorURL : 'https://i.imgur.com/ed2JeXN.png'
+  Thumbnail : 'https://i.imgur.com/ed2JeXN.png'
+  Color: '#FF7631'
+  Image: 'https://i.imgur.com/k9pdpHo.png'
+  Title: 'Ticket System'
+
+# Ticket Opening
+TicketSystem:
+  Description: 'Click 📩 to open ticket'
+  AuthorName: 'DevXor Team'
+  AuthorURL : 'https://i.imgur.com/ed2JeXN.png'
+  Thumbnail : 'https://i.imgur.com/ed2JeXN.png'
+  Color: '#FF7631'
+  Image: 'https://i.imgur.com/k9pdpHo.png'
+  Title: 'Ticket System'
+
+# Modal Question
+ModalReason:
+  Title: 'Reason Ticket'
+  Label: 'Reason'
+  Placeholder: 'Example: I have probleme in my bot DJS v14'
+
+# Ticket Opened
+TicketOpn:
+  Description: 'Hi [User] , Wait Comming Support in ticket for talking you. 
+  
+   **Reason: [Reason]**'
+  AuthorName: 'DevXor Team'
+  AuthorURL : 'https://i.imgur.com/ed2JeXN.png'
+  Thumbnail : 'https://i.imgur.com/ed2JeXN.png'
+  Color: '#FF7631'
+  Image: 'https://i.imgur.com/k9pdpHo.png'
+  Title: 'Ticket System'
+
+# List Support Embed
+ListSupport:
+  Title: 'Support Roles'
+  Color: '#FF7631'
+
+# Add User Embed
+AddUser:
+  Title: 'User Added to Ticket'
+  Color: '#FF7631'
+  FieldName1: 'Added By'
+  FieldName2: 'User Added'
+  FieldName3: 'Channel'
+
+# Remove User Embed
+RemoveUser:
+  Title: 'User Removed from Ticket'
+  Color: '#FF7631'
+  FieldName1: 'Removed By'
+  FieldName2: 'Removed User'
+  FieldName3: 'Channel'
+
+# Embed Ticket Closed
+TicketClosed:
+  Title: 'Ticket Closed !'
+  Description: 'Your ticket has been closed.'
+  Image: 'https://i.imgur.com/ZK7TNge.png'
+  Color: '#FF7631'
+  Fields1: 'Opened By :'
+  Fields2: 'Claimed By :'
+  Fields3: 'Ticket ID :'
+  Fields4: 'Ticket Number :'
+
+# Embed Transcripts
+Transcript:
+  Title: "Transcript Created"
+  Description: "The transcript has been successfully created. You can download it or view it online."
+  Color: "#FF7631"
+  Image: "https://i.imgur.com/ZK7TNge.png"
+
+# Embed Delete Ticjet
+TicketDelete:
+  Title: 'Ticket Closed !'
+  Color: '#FF7631'
+  Image: 'https://i.imgur.com/ZK7TNge.png'
+  Fields1: 'Opened By :'
+  Fields2: 'Claimed By :'
+  Fields3: 'Ticket ID :'
+  Fields4: 'Ticket Number :'
+
+# Embed Command Status
+TicketStatus:
+  OTitle: 'Open Tickets'
+  OColor: '#FF7631'
+  ODescription: '**/ Opened By :**'
+  OODescription: '**No open tickets.**'
+  OThumbnail: 'https://i.imgur.com/ed2JeXN.png'
+  OImage: null #'https://i.imgur.com/k9pdpHo.png'
+  CTitle: 'Closed Tickets'
+  CColor: '#FF7631'
+  CDescription: '**/ Opened By :**'
+  CCDescription: '**No closed tickets.**'
+  CThumbnail: 'https://i.imgur.com/ed2JeXN.png'
+  CImage: null #'https://i.imgur.com/k9pdpHo.png'

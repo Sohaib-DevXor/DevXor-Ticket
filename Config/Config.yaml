@@ -1,0 +1,14 @@
+Client: 
+    ID: '' # Bot ID
+    Guild: '' # Guild ID
+    Version: '1.0.0' 
+
+Ready:
+    Activity: 'DevXor Team' 
+    Status: 'DND'  # Online, Idle, Invisible, DND
+    Type: 'Competing' # Playing, Watching, Listening, Competing
+
+#ID Owners Bot
+Owners: 
+    - ''
+    - ''
